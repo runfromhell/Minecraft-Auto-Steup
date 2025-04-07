@@ -16,6 +16,7 @@
 ## ⚙️ دستور نصب سریع
 
 روی سیستم اوبونتو (مثلاً سرور مجازی یا لوکال) دستور زیر رو وارد کن:
+bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/runfromhell/Minecraft-Auto-Steup/main/Install.sh)
 
 ```bash
 
