@@ -18,7 +18,6 @@
 روی سیستم اوبونتو (مثلاً سرور مجازی یا لوکال) دستور زیر رو وارد کن:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/YOUR_USERNAME/minecraft-server-installer/main/install.sh)
 
 برای خروج از محیط screen (بدون توقف سرور):
 
