@@ -19,21 +19,9 @@
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/YOUR_USERNAME/minecraft-server-installer/main/install.sh)
-🖥️ دسترسی به سرور
-برای ورود به سرور در حال اجرا:
 
-bash
-Copy
-Edit
-screen -r minecraft
 برای خروج از محیط screen (بدون توقف سرور):
 
-css
-Copy
-Edit
-Ctrl + A سپس D
-📁 ساختار فایل‌ها
-install.sh: اسکریپت اصلی نصب و اجرای سرور
 
 eula.txt: فایل تأیید قوانین ماینکرفت (به‌صورت خودکار تولید می‌شود)
 
